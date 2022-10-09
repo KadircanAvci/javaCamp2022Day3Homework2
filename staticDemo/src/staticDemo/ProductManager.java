@@ -2,7 +2,7 @@ package staticDemo;
 
 public class ProductManager {
 
-	// isValid operasyonunu static tanımlanmadığında aşağıdaki gibi kullanılır.(new yapılır)
+	// isValid operasyonu static tanımlanmadığında aşağıdaki gibi kullanılır.(new yapılır)
 
 	// public void add(Product product) {
 
